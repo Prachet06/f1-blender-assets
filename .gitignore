@@ -1,0 +1,8 @@
+*.blend1
+assets/
+Skybox/
+Model Checkpoints/
+source/
+textures/
+meeeesh.png
+rendered.png
